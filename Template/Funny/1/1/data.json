@@ -1,8 +1,8 @@
 {
   "dataTemplate": {
     "videoAttributes": {
-      "width": "720",
-      "height": "1280",
+      "width": 720,
+      "height": 1280,
       "name": "",
       "fps": 24,
       "valuePx": 12.8,
@@ -12,8 +12,8 @@
     "listItem": [
       {
         "photoAttributes": {
-          "width": "478",
-          "height": "478",
+          "width": 478,
+          "height": 478,
           "name": "photo",
           "valuePx": 0,
           "start": "43199000/12000s",
