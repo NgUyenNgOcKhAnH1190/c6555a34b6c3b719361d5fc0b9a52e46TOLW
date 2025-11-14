@@ -1,0 +1,31 @@
+{
+  "dataTemplate": {
+    "videoAttributes": {
+      "width": 1080,
+      "height": 1920,
+      "name": "",
+      "fps": 24,
+      "valuePx": 0.0,
+      "start": "0s",
+      "duration": "9s"
+    },
+    "listItem": [
+      {
+        "photoAttributes": {
+          "width": 600,
+          "height": 600,
+          "name": "photo",
+          "valuePx": 0,
+          "start": "0s",
+          "duration": "9s",
+          "adjust-transform": {
+            "position": [
+              {"time": "0s", "value": "0 0"},
+              {"time": "9s", "value": "0 0"}
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
