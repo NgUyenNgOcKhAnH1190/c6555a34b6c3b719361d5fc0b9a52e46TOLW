@@ -1,0 +1,36 @@
+{
+  "dataTemplate": {
+    "videoAttributes": {
+      "width": 1080,
+      "height": 1920,
+      "name": "",
+      "fps": 24,
+      "valuePx": 19.2015627432,
+      "start": "3600s",
+      "duration": "5s"
+    },
+    "listItem": [
+      {
+        "photoAttributes": {
+          "width": 489,
+          "height": 425,
+          "name": "photo",
+          "valuePx": 0,
+          "start": "3600s",
+          "duration": "5s",
+          "adjust-transform": {
+            "position": [
+              {"time": "3600s",          "value": "1.06142 -18.6339" },
+              {"time": "3601.33333333s", "value": "1.06142 -18.6339" },
+              {"time": "3601.45833333s", "value": "0.965064 -17.9304"},
+              {"time": "3602.5s",        "value": "0.965064 -17.9304"},
+              {"time": "3603.54166667",  "value": "0.965064 -17.9304"},
+              {"time": "3603.66666667",  "value": "1.06142 -18.6339" },
+              {"time": "3605s",          "value": "1.06142 -18.6339" }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
