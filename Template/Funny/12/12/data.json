@@ -21,7 +21,7 @@
           "adjust-transform": {
             "position": [
               {"time": "3600.1s",          "value": "0 0" },
-              {"time": "3610s", "value": "0 0" }
+              {"time": "10s", "value": "0 0" }
             ]
           }
         }
