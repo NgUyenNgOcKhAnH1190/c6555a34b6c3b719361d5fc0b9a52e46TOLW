@@ -7,7 +7,7 @@
       "fps": 24,
       "valuePx": 0.0,
       "start": "3600s",
-      "duration": "43183500/12000s"
+      "duration": "10s"
     },
     "listItem": [
       {
@@ -17,11 +17,11 @@
           "name": "photo",
           "valuePx": 0,
           "start": "3600s",
-          "duration": "43183500/12000s",
+          "duration": "10s",
           "adjust-transform": {
             "position": [
               {"time": "3600.1s",          "value": "0 0" },
-              {"time": "10s", "value": "0 0" }
+              {"time": "3610s", "value": "0 0" }
             ]
           }
         }
