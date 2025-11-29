@@ -1,0 +1,31 @@
+{
+  "dataTemplate": {
+    "videoAttributes": {
+      "width": 720,
+      "height": 1280,
+      "name": "",
+      "fps": 24,
+      "valuePx": 0.0,
+      "start": "3600s",
+      "duration": "20400/2400s"
+    },
+    "listItem": [
+      {
+        "photoAttributes": {
+          "width": 523,
+          "height": 523,
+          "name": "photo",
+          "valuePx": 0,
+          "start": "3600s",
+          "duration": "10500/2400s",
+          "adjust-transform": {
+            "position": [
+              {"time": "3600.1s", "value": "0 0" },
+              {"time": "20400/2400s", "value": "0 0" }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}
