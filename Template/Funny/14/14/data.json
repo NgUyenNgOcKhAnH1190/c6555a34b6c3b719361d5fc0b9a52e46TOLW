@@ -17,7 +17,7 @@
           "name": "photo",
           "valuePx": 0,
           "start": "3600s",
-          "duration": "10500/2400s",
+          "duration": "20400/2400s",
           "adjust-transform": {
             "position": [
               {"time": "3600.1s", "value": "0 0" },
